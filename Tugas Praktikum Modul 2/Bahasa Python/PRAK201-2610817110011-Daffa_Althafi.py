@@ -1,0 +1,17 @@
+name = input("enter your name: ")
+student_id = input("enter your student id: ")
+paralel_class = input("enter your paralel class: ")
+place_and_date_of_birth = input("enter your place and date of birth: ")
+address = input("enter your address: ")
+hobby = input("enter your hobby: ")
+phone_number = input("enter your phone number: ")
+
+print("=" * 15)
+
+print(f"Name                   : {name}")
+print(f"Student id             : {student_id}")
+print(f"Paralel class          : {paralel_class}")
+print(f"Place and date of birth: {place_and_date_of_birth}")
+print(f"Address                : {address}")
+print(f"Hobby                  : {hobby}")
+print(f"Phone number           : {phone_number}")
