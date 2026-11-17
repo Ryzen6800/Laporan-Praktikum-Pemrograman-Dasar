@@ -1,0 +1,1 @@
+revKata[panjang] = '\0';
